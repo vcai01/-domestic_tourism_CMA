@@ -11,5 +11,5 @@ The visitation and expenditure were annual data. If the monthly data was availab
 
 ## Credits and Appreciation
 
-<a href="https://www.dshkol.com/">Dmitry Shkolnik</a>, for the navigation of CANSIM, the R package of Statistics Canada public datasets
-/n<a href="https://towardsdatascience.com/bar-chart-race-in-python-with-matplotlib-8e687a5c8a41">Pratap Vardhan</a>, for the guide of Bar Chart Race in Python with Matplotlib
+1. <a href="https://www.dshkol.com/">Dmitry Shkolnik</a>, for the navigation of CANSIM, the R package of Statistics Canada public datasets
+2. <a href="https://towardsdatascience.com/bar-chart-race-in-python-with-matplotlib-8e687a5c8a41">Pratap Vardhan</a>, for the guide of Bar Chart Race in Python with Matplotlib
