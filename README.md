@@ -11,7 +11,7 @@ The visitation and expenditures were annual data. If the monthly data was availa
 
 ## Credits and Appreciation
 
-1. <a href="https://www150.statcan.gc.ca/n1//en/type/data?MM=1">Statistics Canada</a>
+1. <a href="https://www150.statcan.gc.ca/n1//en/type/data?MM=1">Statistics Canada</a> Open Data
 2. <a href="https://en.wikipedia.org/wiki/List_of_international_airports_in_Canada">List of international airports in Canada</a>, Wikipedia
 3. <a href="https://www.dshkol.com/">Dmitry Shkolnik</a>, for the navigation of CANSIM, the R package of Statistics Canada public datasets
 4. <a href="https://towardsdatascience.com/bar-chart-race-in-python-with-matplotlib-8e687a5c8a41">Pratap Vardhan</a>, for the guide of Bar Chart Race in Python with Matplotlib
