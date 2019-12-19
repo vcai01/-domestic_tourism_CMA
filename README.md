@@ -1,5 +1,5 @@
 ![Image of Canadian Tourism](https://github.com/vcai01/domestic_tourism_CMA/blob/master/banner-eng_gov_CAN.jpg)
-<font color=gray size=10>color=gray</font><p align="right">© Government of Canada</p>
+<p align="right"><font color=gray size=10>© Government of Canada</font></p>
 
 # Domestic Tourism in Census Metropolitan Areas (CMA)
 
