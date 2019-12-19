@@ -1,3 +1,5 @@
+![Image of Canadian Tourism](https://github.com/vcai01/domestic_tourism_CMA/blob/master/banner-eng_gov_CAN.jpg)
+
 # Domestic Tourism in Census Metropolitan Areas (CMA)
 
 ## Overview
