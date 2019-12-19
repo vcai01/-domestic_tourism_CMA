@@ -1,5 +1,5 @@
 ![Image of Canadian Tourism](https://github.com/vcai01/domestic_tourism_CMA/blob/master/banner-eng_gov_CAN.jpg)
-© Government of Canada
+<p align="right">© Government of Canada</p>
 
 # Domestic Tourism in Census Metropolitan Areas (CMA)
 
@@ -19,3 +19,4 @@ The visitation and expenditures were annual data. If the monthly data was availa
 3. <a href="https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec">VIA Rail Canada</a>, Ontario-Québec route
 4. <a href="https://www.dshkol.com/">Dmitry Shkolnik</a>, for the navigation of CANSIM, the R package of Statistics Canada public datasets
 5. <a href="https://towardsdatascience.com/bar-chart-race-in-python-with-matplotlib-8e687a5c8a41">Pratap Vardhan</a>, for the guide of Bar Chart Race in Python with Matplotlib
+6. <a href="https://www.ic.gc.ca/eic/site/134.nsf/eng/h_00002.html>Government of Canada</a>
