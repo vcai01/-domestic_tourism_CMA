@@ -2,7 +2,7 @@
 
 ## Overview
 
-Here is an Exploratory Data Analysis on the data set of Travel Survey of Residents of Canada from Statistics Canada. From the data from 2011 to 2017, I tried to understand its structure, and find out:
+Here is an exploratory data analysis on the data set of Travel Survey of Residents of Canada from Statistics Canada. From the data from 2011 to 2017, I tried to understand its structure, and find out:
     
 1. Top 10 destinations (CMA) in 2017 by visitation and expenditure
 2. Growth in domestic tourism expenditure and visitation in  from 2011 to 2017
