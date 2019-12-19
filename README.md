@@ -1,4 +1,4 @@
-# Domestic Tourism in Canadian Metropolitan Area (CMA)
+# Domestic Tourism in Canadian Metropolitan Areas (CMA)
 
 ## Overview
 
